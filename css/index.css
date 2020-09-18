@@ -1,0 +1,63 @@
+body {
+  background: url('../img/207383780d6e14e9e0e6921d8ad8897a.jpg') no-repeat;
+  background-size: cover;
+}
+body .nav {
+  width: 1200px;
+  height: 80px;
+  border-radius: 10px;
+  margin: 0 auto;
+  background-color: rgba(147, 224, 255, 0.3);
+}
+body .nav .head {
+  float: left;
+  font-size: 32px;
+  font-family: 'fangsong';
+  font-weight: 700;
+  color: black;
+}
+body .nav .search {
+  padding: 0 10px;
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 80px;
+}
+body .nav .search .txt {
+  height: 50px;
+  width: 500px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+body .nav .search .search_btn {
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+}
+body .nav .login {
+  float: right;
+  height: 80px;
+  font-size: 16px;
+}
+body .nav .login span {
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+body .nav .login span img {
+  width: 100%;
+  vertical-align: top;
+}
+body .min {
+  width: 1200px;
+  height: 800px;
+  border-radius: 10px;
+  margin: 10px auto 0px;
+  padding-top: 20px;
+  background-color: rgba(147, 224, 255, 0.3);
+}
